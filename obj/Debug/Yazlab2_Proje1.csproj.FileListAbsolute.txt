@@ -1,0 +1,10 @@
+c:\users\hazer\documents\visual studio 2015\Projects\Yazlab2_Proje1\Yazlab2_Proje1\bin\Debug\Yazlab2_Proje1.exe.config
+C:\Users\Hazer\documents\visual studio 2015\Projects\Yazlab2_Proje1\Yazlab2_Proje1\obj\Debug\Yazlab2_Proje1.csprojResolveAssemblyReference.cache
+C:\Users\Hazer\documents\visual studio 2015\Projects\Yazlab2_Proje1\Yazlab2_Proje1\obj\Debug\Yazlab2_Proje1.Form1.resources
+C:\Users\Hazer\documents\visual studio 2015\Projects\Yazlab2_Proje1\Yazlab2_Proje1\obj\Debug\Yazlab2_Proje1.Properties.Resources.resources
+C:\Users\Hazer\documents\visual studio 2015\Projects\Yazlab2_Proje1\Yazlab2_Proje1\obj\Debug\Yazlab2_Proje1.csproj.GenerateResource.Cache
+C:\Users\Hazer\documents\visual studio 2015\Projects\Yazlab2_Proje1\Yazlab2_Proje1\bin\Debug\Yazlab2_Proje1.exe
+C:\Users\Hazer\documents\visual studio 2015\Projects\Yazlab2_Proje1\Yazlab2_Proje1\bin\Debug\Yazlab2_Proje1.pdb
+C:\Users\Hazer\documents\visual studio 2015\Projects\Yazlab2_Proje1\Yazlab2_Proje1\obj\Debug\Yazlab2_Proje1.exe
+C:\Users\Hazer\documents\visual studio 2015\Projects\Yazlab2_Proje1\Yazlab2_Proje1\obj\Debug\Yazlab2_Proje1.pdb
+C:\Users\Hazer\Documents\Visual Studio 2015\Projects\Yazlab2_Proje1\Yazlab2_Proje1\obj\Debug\Yazlab2_Proje1.Labirent.resources
